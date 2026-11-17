@@ -192,9 +192,9 @@
   <a href="https://www.linkedin.com/in/julian-camilo-lopez-cabrera-692b7a291/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="juliancamilolopezcabrera@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="mailto:juliancamilolopezcabrera@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=julian9805&label=Visitas%20al%20perfil&color=7aa2f7&style=for-the-badge" alt="Contador de visitas" />
