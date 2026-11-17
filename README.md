@@ -1,79 +1,79 @@
-<!-- BANNER ANIMADO SUPERIOR -->
+<!-- ═══════════════ BANNER SUPERIOR ═══════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2f3542,100:7aa2f7&height=200&section=header&text=Julian%20López&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Full%20Stack%20Developer%20|%20Estudiante%20de%20DAW&descAlignY=58&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1b27,50:3b4261,100:7aa2f7&height=240&section=header&text=Julian%20López&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Junior%20Full%20Stack%20Developer%20%E2%80%A2%20Estudiante%20de%20DAW&descAlignY=60&descSize=20" width="100%" alt="Banner" />
 </div>
 
-<!-- EFECTO MÁQUINA DE ESCRIBIR -->
+<!-- ═══════════════ TEXTO ANIMADO ═══════════════ -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Apasionado+por+el+desarrollo+Full+Stack+💻;Construyendo+ideas+con+Java+%26+React+🚀;Administrando+sistemas+y+servidores+Linux+🐧;En+constante+aprendizaje+y+evolución+📈" alt="Typing SVG" />
+  <a href="https://github.com/julian9805">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&height=50&lines=Apasionado+por+el+desarrollo+Full+Stack+%F0%9F%92%BB;Construyendo+ideas+con+Java+%26+React+%F0%9F%9A%80;Administrando+sistemas+y+servidores+Linux+%F0%9F%90%A7;En+constante+aprendizaje+y+evoluci%C3%B3n+%F0%9F%93%88" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
-<!-- SOBRE MÍ EN DOS COLUMNAS -->
-<table>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+</div>
+
+<br>
+
+<!-- ═══════════════ SOBRE MÍ ═══════════════ -->
+<h2 align="center">👨‍💻 Sobre mí</h2>
+
+<table align="center">
   <tr>
     <td width="60%" valign="top">
-      <h3>👨‍💻 Sobre mí</h3>
       <p>
-        ¡Hola! Soy estudiante de <b>Desarrollo de Aplicaciones Web (DAW)</b> con un fuerte enfoque en crear aplicaciones útiles, modernas y bien estructuradas.
+        ¡Hola! 👋 Soy estudiante de <b>Desarrollo de Aplicaciones Web (DAW)</b> con un fuerte enfoque en crear aplicaciones útiles, modernas y bien estructuradas.
       </p>
       <p>
         Disfruto tanto diseñando interfaces dinámicas como arquitecturando el backend, gestionando bases de datos y configurando servidores desde cero. Me encantan los retos técnicos y transformar ideas en código real.
       </p>
       <ul>
-        <li>🔭 <b>Actualmente trabajando en:</b> <i>Personal Finance Manager</i> (Full Stack).</li>
-        <li>🌱 <b>Profundizando en:</b> Arquitectura limpia, Spring Boot, React y Docker.</li>
-        <li>⚡ <b>Dato curioso:</b> Me gusta tanto picar código como configurar redes y servicios en Ubuntu Server.</li>
+        <li>🔭 <b>Ahora mismo:</b> construyendo <i>Personal Finance Manager</i> (Full Stack)</li>
+        <li>🌱 <b>Profundizando en:</b> Arquitectura limpia, Spring Boot, React y Docker</li>
+        <li>⚡ <b>Dato curioso:</b> igual de a gusto picando código que configurando redes y servicios en Ubuntu Server</li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <!-- GIF DE PROGRAMACIÓN -->
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF" style="border-radius: 10px;" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF" />
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- STACK TECNOLÓGICO -->
-<h2 align="center">🛠️ Stack Tecnológico & Herramientas</h2>
+<!-- ═══════════════ STACK ═══════════════ -->
+<h2 align="center">🛠️ Stack Tecnológico</h2>
 
 <div align="center">
 
-#### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**🌐 Frontend**
 
-#### ⚙️ Backend & Bases de Datos
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" alt="Frontend" />
 
-#### 🐧 Sistemas, DevOps & IDEs
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+**⚙️ Backend & Bases de datos**
+
+<img src="https://skillicons.dev/icons?i=java,spring,php,py,postgres,mysql&theme=dark" alt="Backend" />
+
+**🐧 Sistemas, DevOps & Herramientas**
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,docker,git,github,idea,webstorm&theme=dark" alt="DevOps" />
+<br>
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
 
 </div>
 
-<!-- DESPLEGABLES INTERACTIVOS -->
 <br>
+
 <details>
-  <summary><b>🔍 Ver detalles de conocimientos en Sistemas, Redes y Aprendizaje actual (Click para desplegar)</b></summary>
+  <summary><b>🔍 Ver detalle de conocimientos (click para desplegar)</b></summary>
   <br>
   <table>
     <tr>
@@ -97,87 +97,112 @@
 
 <br>
 
-<!-- PROYECTO DESTACADO EN TARJETA -->
+<!-- ═══════════════ PROYECTO DESTACADO ═══════════════ -->
 <h2 align="center">🚀 Proyecto Destacado</h2>
 
 <table align="center">
   <tr>
     <td width="100%">
-      <h3>💰 Personal Finance Manager</h3>
-      <p>Aplicación web Full Stack diseñada para tomar el control total de las finanzas personales mediante estadísticas visuales y categorización inteligente.</p>
-      <p>
-        <b>Stack:</b> 
-        <code>React</code> • <code>TypeScript</code> • <code>Java</code> • <code>Spring Boot</code> • <code>PostgreSQL</code> • <code>REST API</code>
+      <h3 align="center">💰 Personal Finance Manager</h3>
+      <p align="center">
+        Aplicación web Full Stack para tomar el control de tus finanzas personales con estadísticas visuales y categorización inteligente.
+      </p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,ts,java,spring,postgres&theme=dark" alt="Stack del proyecto" />
       </p>
       <details>
         <summary><b>✨ Ver funcionalidades principales</b></summary>
         <ul>
-          <li>Registro, edición y eliminación de ingresos y gastos.</li>
-          <li>Organización dinámica mediante categorías personalizadas.</li>
-          <li>Dashboard con cálculo de balances, filtros avanzados y gráficos estadísticos.</li>
-          <li>Sistema completo de autenticación y seguridad.</li>
+          <li>💸 Registro, edición y eliminación de ingresos y gastos.</li>
+          <li>🏷️ Organización dinámica mediante categorías personalizadas.</li>
+          <li>📊 Dashboard con balances, filtros avanzados y gráficos estadísticos.</li>
+          <li>🔐 Sistema completo de autenticación y seguridad.</li>
         </ul>
       </details>
-      <br>
-      <a href="https://github.com/julian9805/FinanzasAppFront">
-        <img src="https://img.shields.io/badge/Frontend_Repo-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Frontend Repo" />
-      </a>
-      <a href="https://github.com/julian9805/FinanzasApp">
-        <img src="https://img.shields.io/badge/Backend_Repo-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Backend Repo" />
-      </a>
+      <p align="center">
+        <a href="https://github.com/julian9805/FinanzasAppFront">
+          <img src="https://img.shields.io/badge/Frontend_Repo-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Frontend Repo" />
+        </a>
+        <a href="https://github.com/julian9805/FinanzasApp">
+          <img src="https://img.shields.io/badge/Backend_Repo-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Backend Repo" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- HOJA DE RUTA / OBJETIVOS -->
+<!-- ═══════════════ HOJA DE RUTA ═══════════════ -->
 <details>
-  <summary><b>🎯 Ver mi Hoja de Ruta y Objetivos como Desarrollador</b></summary>
+  <summary><b>🎯 Ver mi Hoja de Ruta como Desarrollador</b></summary>
   <br>
-  <ul>
-    <li>[x] Dominar bases de datos relacionales (PostgreSQL / MySQL) y administración básica en Linux.</li>
-    <li>[ ] Construir y desplegar aplicaciones Full Stack completas con <b>Java + Spring Boot</b> y <b>React + TypeScript</b>.</li>
-    <li>[ ] Aplicar principios SOLID, patrones de diseño y buenas prácticas de arquitectura de software.</li>
-    <li>[ ] Contenerizar proyectos con <b>Docker</b> y automatizar despliegues (CI/CD).</li>
-  </ul>
+
+- [x] Dominar bases de datos relacionales (PostgreSQL / MySQL) y administración básica en Linux.
+- [ ] Construir y desplegar aplicaciones Full Stack completas con **Java + Spring Boot** y **React + TypeScript**.
+- [ ] Aplicar principios SOLID, patrones de diseño y buenas prácticas de arquitectura de software.
+- [ ] Contenerizar proyectos con **Docker** y automatizar despliegues (CI/CD).
+
 </details>
 
 <br>
 
-<!-- ESTADÍSTICAS DE GITHUB -->
+<!-- ═══════════════ ESTADÍSTICAS ═══════════════ -->
 <h2 align="center">📊 Estadísticas y Actividad en GitHub</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julian9805&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=es" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julian9805&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=es" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=julian9805&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=es" alt="Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julian9805&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=es" alt="Top lenguajes" />
 </div>
 
 <br>
 
-<!-- TROFEOS DE GITHUB -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=julian9805&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="Trofeos" />
+  <img src="https://streak-stats.demolab.com?user=julian9805&theme=tokyonight&hide_border=true&locale=es&border_radius=10" alt="Racha de contribuciones" />
 </div>
 
 <br>
 
-<!-- CONECTEMOS Y CONTADOR DE VISITAS -->
+<!-- ═══════════════ GRÁFICO DE ACTIVIDAD ═══════════════ -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=julian9805&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&area_color=7aa2f7&hide_border=true&custom_title=Actividad%20de%20contribuciones" alt="Gráfico de actividad" width="95%" />
+</div>
+
+<br>
+
+<!-- ═══════════════ TROFEOS (corregido) ═══════════════ -->
+<h2 align="center">🏆 Trofeos</h2>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=julian9805&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&column=7&row=1&rank=-C" alt="Trofeos de GitHub" />
+  </a>
+</div>
+
+<br>
+
+<!-- ═══════════════ CONTACTO ═══════════════ -->
 <div align="center">
   <h3>📫 ¡Conectemos!</h3>
   <p>Si quieres colaborar en algún proyecto, intercambiar ideas o seguir mi evolución:</p>
-  
+
   <a href="https://github.com/julian9805">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-julian9805-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Puedes descomentar y añadir tu LinkedIn o Email cuando quieras -->
-  <!-- <a href="TU_LINK_DE_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> -->
+  <!-- Descomenta y añade tu LinkedIn o email cuando quieras
+  <a href="TU_LINK_DE_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:TU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  -->
 
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=julian9805&label=Visitas%20al%20perfil&color=7aa2f7&style=for-the-badge" alt="Contador de visitas" />
 </div>
 
-<!-- BANNER INFERIOR -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2f3542,100:7aa2f7&height=100&section=footer" width="100%" />
+<br>
+
+<!-- ═══════════════ BANNER INFERIOR ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3b4261,100:7aa2f7&height=120&section=footer" width="100%" alt="Footer" />
