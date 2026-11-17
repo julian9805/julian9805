@@ -189,14 +189,12 @@
   <a href="https://github.com/julian9805">
     <img src="https://img.shields.io/badge/GitHub-julian9805-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Descomenta y añade tu LinkedIn o email cuando quieras
-  <a href="TU_LINK_DE_LINKEDIN">
+  <a href="https://www.linkedin.com/in/julian-camilo-lopez-cabrera-692b7a291/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:TU_EMAIL">
+  <a href="juliancamilolopezcabrera@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  -->
 
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=julian9805&label=Visitas%20al%20perfil&color=7aa2f7&style=for-the-badge" alt="Contador de visitas" />
